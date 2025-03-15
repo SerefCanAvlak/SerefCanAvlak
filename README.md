@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Şeref Can Avlak</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **e-Accounting-project**
+- 🔭 I’m currently working on **AuMind-eAccounting-Project**
 
 - 🌱 I’m currently learning **.Net Core**
 
